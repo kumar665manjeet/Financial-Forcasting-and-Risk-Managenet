@@ -1,1 +1,1 @@
-# financialforcasting-and-Risk-Managenet
+# Financial-Forcasting-and-Risk-Managenet
